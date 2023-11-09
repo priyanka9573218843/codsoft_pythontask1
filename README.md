@@ -1,2 +1,2 @@
-# codsoft_pythontask2
+# codsoft_pythontask1
 to do list
